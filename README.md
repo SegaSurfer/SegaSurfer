@@ -29,8 +29,9 @@ Usage:
 
 Options:
   -h, --help              Show this help
-  -a, --aboutme           I'm just a random dude, no professional dev. "Developing" for fun and scripting a little bit for my own amusement. 
-                          You ccan basically call me a script kiddie. Furthermore, I'm a passionate Dungeon Master and doing stuff to improve my players experience and reduce my prep time.
+  -a, --aboutme           I'm just a random dude, no professional dev. "Developing" for fun and scripting a little 
+                          bit for my own amusement. You can basically call me a script kiddie. Furthermore, I'm a 
+                          passionate Dungeon Master and doing stuff to improve my players experience and reduce my prep time.
   -r, --reason            I basically use this profile as playground or storage for private projects and configs.
   -j, --joke              What are a CISO’s two biggest cybersecurity fears? - Everyone who works at the company… and everyone who doesn’t. 
   
